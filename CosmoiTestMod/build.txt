@@ -1,0 +1,3 @@
+displayName = Cosmo's Test Mod
+author = Cosmonium
+version = 0.2

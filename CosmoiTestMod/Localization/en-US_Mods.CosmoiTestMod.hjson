@@ -1,0 +1,11 @@
+Items: {
+	TestItem: {
+		Tooltip: ""
+		DisplayName: Test Item
+	}
+
+	ChildObliterator: {
+		Tooltip: ""
+		DisplayName: Child Obliterator
+	}
+}
